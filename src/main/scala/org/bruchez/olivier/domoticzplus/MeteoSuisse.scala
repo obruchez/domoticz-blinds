@@ -1,4 +1,4 @@
-package org.bruchez.olivier.domoticzblinds
+package org.bruchez.olivier.domoticzplus
 
 object MeteoSuisse {
 

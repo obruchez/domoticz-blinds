@@ -1,6 +1,6 @@
-package org.bruchez.olivier.domoticzblinds
+package org.bruchez.olivier.domoticzplus
 
-object DomoticzBlinds {
+object DomoticzPlus {
   def main(args: Array[String]): Unit = {
     println("Hello, world.")
   }
