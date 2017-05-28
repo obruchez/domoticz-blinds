@@ -1,1 +1,1 @@
-# domoticz-blinds
+# domoticz-plus
