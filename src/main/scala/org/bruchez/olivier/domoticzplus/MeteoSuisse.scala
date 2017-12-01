@@ -1,8 +1,6 @@
 package org.bruchez.olivier.domoticzplus
 
-object MeteoSuisse {
-
-}
+object MeteoSuisse {}
 
 /*
 http://www.meteosuisse.admin.ch/product/output/forecast-map/version__20170527_0734/fr/chmap_20170529.json
